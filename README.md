@@ -79,6 +79,13 @@ lib/
 - **flutter_riverpod**: State management
 - **cupertino_icons**: iOS-style icons
 
+## Architecture
+
+![App Architecture](screenshots/architecture.png)
+
+The diagram above illustrates the overall architecture of the Plum Quiz App, including AI integration, state management, and UI flow.
+
+
 ## Configuration
 
 ### Environment Variables
