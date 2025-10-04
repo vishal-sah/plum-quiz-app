@@ -2,6 +2,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:plum_quiz_app/core/ai/ai_service.dart';
+import 'package:plum_quiz_app/screens/quiz/quiz_screen.dart';
+import 'package:plum_quiz_app/state/quiz_provider.dart';
 
 class LoadingScreen extends ConsumerStatefulWidget {
   final String topic;
